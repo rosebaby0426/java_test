@@ -4,6 +4,8 @@ public class InterfacePractice {
 
 	public static void main(String[] args) {
 		
+		//我是GITHUB測試
+		
 		//介面也可以當成一種特殊的資料類型
 		WeightTable[] wei = new WeightTable[3];
 		
