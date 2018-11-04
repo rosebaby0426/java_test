@@ -51,8 +51,8 @@ public class HW4Array {
 		//把每個字元當作會出現的次數
 		int a=0 , e=0 , i=0 , o=0 , u=0 ,sumChar;
 			//把planet陣列中的元素拆解成一個字串
-		for (int row1 = 0; row1 < planet.length; row1++) {
-			for (int column = 0; column < planet[row1].length(); column++) {
+		for (int row1 = 0; row1 < planet.length ; row1++) {
+			for (int column = 0; column < planet[row1].length() ; column++) {
 				//把一個字串拆解成一個字母
 				if (String.valueOf(planet[row1].charAt(column)).equals("a")) {
 					//planet[row1].charAt(column)：planet陣列中的row1行的第column的字元

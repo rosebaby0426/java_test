@@ -1,6 +1,5 @@
 package Homework;
 
-import Practice.*;
 
 public class Test4Numbers {
 

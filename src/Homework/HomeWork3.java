@@ -73,7 +73,7 @@ public class HomeWork3 {
 			continue;
 		}
 		System.out.println("猜中了!答案就是" + i);
-		
+		sc.close();
 //
 		System.out.println("===================================");
 		System.out.println("阿文很喜歡簽大樂透(1~49),但他是個善變的人,上次討厭數字是4,\r\n" + "但這次他想要依心情決定討厭哪個數字,請您設計一隻程式,讓阿文\r\n"
