@@ -29,12 +29,18 @@ public class Test1 {
 //		int num1 = 4, num2 = 7;
 //		System.out.println(num1 > num2);
 		
-		double principal = 150;// 設定本金
-		for (int i = 0; i < 10; i++) {
-			principal = principal * 1.02;
-		} // 利用迴圈進行複利的計算共十次
-		System.out.println("本金變為:" + principal);
+//		double principal = 150;// 設定本金
+//		for (int i = 0; i < 10; i++) {
+//			principal = principal * 1.02;
+//		} // 利用迴圈進行複利的計算共十次
+//		System.out.println("本金變為:" + principal);
+//		
+//		int[] a = {1,6,3};
+//		
+//		System.out.println(Math.max(a[0], a[2]));
+//		
 		
+		System.out.println(Math.pow(0, 0));
 		
 		
 		

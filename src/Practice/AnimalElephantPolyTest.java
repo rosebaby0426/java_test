@@ -4,7 +4,7 @@ public class AnimalElephantPolyTest {
 
 	public static void main(String[] args) {
 		
-		AnimalSet ani[] = new [3];
+//		AnimalSet ani[] = new [3];
 		
 		
 		
