@@ -32,7 +32,7 @@ public class HW4Array_2 {
 			//所以把輸入的金額跟陣列中的第二個元素做比對
 			if (a <= n[x][1]) {
 				System.out.print(n[x][0] + "\t");
-				System.out.print(n[x][1] + "\t");
+//				System.out.print(n[x][1] + "\t");
 			} else {
 				continue;
 			}		
